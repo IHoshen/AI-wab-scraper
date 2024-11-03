@@ -4,3 +4,5 @@ The scrape.py file leverages Selenium to scrape the targeted website, while the 
 This implementation combines these powerful tools—Selenium, BeautifulSoup, LangChain, 
 and Ollama—providing a comprehensive demo and development walkthrough to showcase the responsive and intelligent web scraping solution.
 
+This project demonstrates how to build an AI-powered web scraper using Python, inspired by a YouTube tutorial: 
+https://www.youtube.com/watch?v=Oo8-nEuDBkk&t=2s
