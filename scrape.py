@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 def scrape_website(website): 
     print("Launching chrome browser...")
 
-    chrome_driver_path = "C:/Users/itama/OneDrive - Ariel University/Documents/Desktop/programing/AI wab scraper/chromedriver.exe"
+    chrome_driver_path = "......."
     options = webdriver.ChromeOptions()
     driver = webdriver.Chrome(service = Service(chrome_driver_path), options = options)
 
